@@ -1,5 +1,5 @@
 # Reliability-in-Multidimensional-Data
-Mplus scripts, data, &amp; output for a Monte Carlo simulation (presented at a Quant Psych lab meeting) comparing coefficient's alpha to true reliability under multidimensionality
+Mplus scripts, data, &amp; output for a Monte Carlo simulation (presented at a Quant Psych lab meeting) comparing coefficient's alpha to scale reliability under multidimensionality
 
 Y. K. Hwang
 
